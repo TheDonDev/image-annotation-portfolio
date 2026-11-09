@@ -1,0 +1,289 @@
+{
+    "image": "nairobi_street.jpg",
+    "image_width": 5184,
+    "image_height": 3456,
+    "annotation_format": "xyxy_pixel_coordinates",
+    "created_at": "2026-11-09T14:07:52",
+    "annotations": [
+        {
+            "id": 1,
+            "category": "person",
+            "bbox": [
+                47,
+                2608,
+                156,
+                3007
+            ]
+        },
+        {
+            "id": 2,
+            "category": "person",
+            "bbox": [
+                207,
+                2608,
+                311,
+                2991
+            ]
+        },
+        {
+            "id": 3,
+            "category": "person",
+            "bbox": [
+                306,
+                2602,
+                363,
+                2976
+            ]
+        },
+        {
+            "id": 4,
+            "category": "person",
+            "bbox": [
+                394,
+                2551,
+                550,
+                3328
+            ]
+        },
+        {
+            "id": 5,
+            "category": "person",
+            "bbox": [
+                482,
+                2457,
+                658,
+                3385
+            ]
+        },
+        {
+            "id": 6,
+            "category": "car",
+            "bbox": [
+                653,
+                2587,
+                897,
+                2820
+            ]
+        },
+        {
+            "id": 7,
+            "category": "car",
+            "bbox": [
+                798,
+                2592,
+                949,
+                2742
+            ]
+        },
+        {
+            "id": 8,
+            "category": "car",
+            "bbox": [
+                907,
+                2556,
+                1182,
+                2748
+            ]
+        },
+        {
+            "id": 9,
+            "category": "person",
+            "bbox": [
+                1011,
+                2535,
+                1109,
+                2815
+            ]
+        },
+        {
+            "id": 10,
+            "category": "bicycle",
+            "bbox": [
+                943,
+                2794,
+                1115,
+                3084
+            ]
+        },
+        {
+            "id": 11,
+            "category": "person",
+            "bbox": [
+                1203,
+                2592,
+                1270,
+                2748
+            ]
+        },
+        {
+            "id": 12,
+            "category": "person",
+            "bbox": [
+                1255,
+                2602,
+                1312,
+                2815
+            ]
+        },
+        {
+            "id": 13,
+            "category": "person",
+            "bbox": [
+                1301,
+                2576,
+                1358,
+                2711
+            ]
+        },
+        {
+            "id": 14,
+            "category": "person",
+            "bbox": [
+                1353,
+                2597,
+                1420,
+                2820
+            ]
+        },
+        {
+            "id": 15,
+            "category": "person",
+            "bbox": [
+                1467,
+                2582,
+                1503,
+                2649
+            ]
+        },
+        {
+            "id": 16,
+            "category": "person",
+            "bbox": [
+                1493,
+                2514,
+                1654,
+                3178
+            ]
+        },
+        {
+            "id": 17,
+            "category": "person",
+            "bbox": [
+                1664,
+                2566,
+                1788,
+                3110
+            ]
+        },
+        {
+            "id": 18,
+            "category": "person",
+            "bbox": [
+                1773,
+                2571,
+                1897,
+                2945
+            ]
+        },
+        {
+            "id": 19,
+            "category": "person",
+            "bbox": [
+                1903,
+                2535,
+                2011,
+                2789
+            ]
+        },
+        {
+            "id": 20,
+            "category": "person",
+            "bbox": [
+                2079,
+                2566,
+                2172,
+                2856
+            ]
+        },
+        {
+            "id": 21,
+            "category": "person",
+            "bbox": [
+                2188,
+                2561,
+                2265,
+                2748
+            ]
+        },
+        {
+            "id": 22,
+            "category": "person",
+            "bbox": [
+                2260,
+                2540,
+                2333,
+                2799
+            ]
+        },
+        {
+            "id": 23,
+            "category": "person",
+            "bbox": [
+                2343,
+                2545,
+                2462,
+                2799
+            ]
+        },
+        {
+            "id": 24,
+            "category": "car",
+            "bbox": [
+                2488,
+                2582,
+                2576,
+                2753
+            ]
+        },
+        {
+            "id": 25,
+            "category": "car",
+            "bbox": [
+                2587,
+                2576,
+                2799,
+                2830
+            ]
+        },
+        {
+            "id": 26,
+            "category": "car",
+            "bbox": [
+                2820,
+                2613,
+                3095,
+                2908
+            ]
+        },
+        {
+            "id": 27,
+            "category": "car",
+            "bbox": [
+                3131,
+                2639,
+                3603,
+                3033
+            ]
+        },
+        {
+            "id": 28,
+            "category": "car",
+            "bbox": [
+                3587,
+                2494,
+                5168,
+                3411
+            ]
+        }
+    ]
+}
